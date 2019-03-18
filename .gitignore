@@ -1,0 +1,4 @@
+tests/KhufuServer.Tests/obj/**
+tests/KhufuServer.Tests/bin/**
+src/KhufuServer/obj/**
+src/KhufuServer/bin/**
